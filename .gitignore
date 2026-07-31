@@ -1,0 +1,9 @@
+/target
+.DS_Store
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.env
+.env.*
